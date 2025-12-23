@@ -18,6 +18,7 @@ thats it.
 ### KNOWN BUGS
 
  * so far nothing! let me know if you find any.
+ * This may not count as a bug necessarily, but it does NOT load in emulators. That is a consistent problem across all Lovepotion games.
 
 ### CREDITS!!!
 
