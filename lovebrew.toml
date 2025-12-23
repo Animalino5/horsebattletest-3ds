@@ -1,0 +1,11 @@
+[metadata]
+title = "Horse Battle Test"
+author = "Lumi" 
+description = "They bounced... Now they BATTLE!"
+version = "1.0.0"
+icons = { ctr = "icon.png" }
+
+[build]
+targets = ["ctr"]
+source = "game"
+packaged = true
