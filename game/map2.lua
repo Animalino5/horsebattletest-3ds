@@ -108,13 +108,13 @@ local function allChestsEaten2()
 end
 
 function map2.loadRoom()
-    logo2_1 = love.graphics.newImage("assets/horseplayer1.png")
-    logo2_2 = love.graphics.newImage("assets/horseplayer2.png")
-    chest2 = love.graphics.newImage("assets/chest.png")
+    logo2_1 = love.graphics.newImage("ASSETS/horseplayer1.png")
+    logo2_2 = love.graphics.newImage("ASSETS/horseplayer2.png")
+    chest2 = love.graphics.newImage("ASSETS/chest.png")
     
-    obstacle2 = love.graphics.newImage("assets/map2collision.png")
+    obstacle2 = love.graphics.newImage("ASSETS/map2collision.png")
     
-    local tempData = love.image.newImageData("assets/map2collision.png")
+    local tempData = love.image.newImageData("ASSETS/map2collision.png")
     mapW2, mapH2 = tempData:getDimensions()
 
     solidPixels2 = {}
@@ -132,8 +132,8 @@ function map2.loadRoom()
     tempData = nil
     collectgarbage("collect")
 
-    bumpsnd = love.audio.newSource("assets/bump.wav", "static")
-    chestsnd = love.audio.newSource("assets/chest.wav", "static")
+    bumpsnd = love.audio.newSource("ASSETS/bump.wav", "static")
+    chestsnd = love.audio.newSource("ASSETS/chest.wav", "static")
 
     map2.resetRoom()
 end
@@ -308,4 +308,5 @@ function map2.unload()
     mapData2 = nil
    solidPixels2 = {}
 collectgarbage("collect")
+
 end
