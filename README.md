@@ -18,6 +18,7 @@ thats it.
 ### KNOWN BUGS
 
  * It may blackscreen. Reason not known.
+ * When your oponent is faster than you and you collide with him, you gain his speed.
  * This may not count as a bug necessarily, but it does NOT load in emulators. That is a consistent problem across all Lovepotion games.
 
 ### CREDITS!!!
