@@ -15,6 +15,11 @@ but then i discovered that i could make games for the 3ds........
 and i really wanted my little game in there.
 thats it.
 
+### WARNING
+
+No version before 1.0.3 works.
+
+
 ### KNOWN BUGS
 
  * It may blackscreen. Reason not known.
