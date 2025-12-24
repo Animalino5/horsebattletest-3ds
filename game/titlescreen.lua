@@ -20,12 +20,12 @@ function getRecordString(map, mode)
 end
 
 function titlescreen_loadRoom()
-    titleScreen = love.graphics.newImage("ASSETS/titlescreen.png")
-    but1        = love.graphics.newImage("ASSETS/map1button.png")
-    but2        = love.graphics.newImage("ASSETS/map2button.png")
+    titleScreen = love.graphics.newImage("assets/titlescreen.png")
+    but1        = love.graphics.newImage("assets/map1button.png")
+    but2        = love.graphics.newImage("assets/map2button.png")
 
     if not bgm then
-        bgm = love.audio.newSource("ASSETS/music.ogg", "stream")
+        bgm = love.audio.newSource("assets/music.ogg", "stream")
     end
 
     button = {}

@@ -2,8 +2,8 @@ local btnClassic, btnTimeTrial
 local btnW, btnH = 200, 100
 
 function modeselect_loadRoom()
-    btnClassic = love.graphics.newImage("ASSETS/classicbutton.png")
-    btnTimeTrial = love.graphics.newImage("ASSETS/timetrialbutton.png")
+    btnClassic = love.graphics.newImage("assets/classicbutton.png")
+    btnTimeTrial = love.graphics.newImage("assets/timetrialbutton.png")
 end
 
 function modeselect_drawBottomRoom()

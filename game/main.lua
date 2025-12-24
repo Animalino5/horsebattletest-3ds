@@ -1,4 +1,4 @@
-require("nest").init({console = "3ds"})
+--require("nest").init({console = "3ds"})
 love.graphics.setDefaultFilter("nearest", "nearest")
 
 TOP_W, TOP_H = 400, 240
@@ -61,8 +61,8 @@ end
 require("titlescreen")
 
 function love.load()
-    bottomBG = love.graphics.newImage("ASSETS/bg.png")
-    dirCir   = love.graphics.newImage("ASSETS/directioncircle.png")
+    bottomBG = love.graphics.newImage("assets/bg.png")
+    dirCir   = love.graphics.newImage("assets/directioncircle.png")
     
     loadFromSD()
 

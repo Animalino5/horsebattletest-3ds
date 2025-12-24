@@ -1,4 +1,5 @@
 function love.conf(t)
+    t.identity = "HBT"
     t.console = true
     t.modules.audio = true
     t.modules.sound = true

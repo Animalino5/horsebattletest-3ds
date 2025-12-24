@@ -1,14 +1,14 @@
 playedJingle = false 
 
 function win_loadRoom()
-    orangeWin = love.graphics.newImage("ASSETS/orangewin.png")
-    blueWin = love.graphics.newImage("ASSETS/bluewin.png")
-    winBG = love.graphics.newImage("ASSETS/winBG.png")
-    tieWin = love.graphics.newImage("ASSETS/tie.png")
+    orangeWin = love.graphics.newImage("assets/orangewin.png")
+    blueWin = love.graphics.newImage("assets/bluewin.png")
+    winBG = love.graphics.newImage("assets/winBG.png")
+    tieWin = love.graphics.newImage("assets/tie.png")
 
-    orangeJingle = love.audio.newSource("ASSETS/orangewin.wav", "static")
-    blueJingle = love.audio.newSource("ASSETS/bluewin.wav", "static")
-    tieJingle = love.audio.newSource("ASSETS/tiewin.wav", "static")
+    orangeJingle = love.audio.newSource("assets/orangewin.wav", "static")
+    blueJingle = love.audio.newSource("assets/bluewin.wav", "static")
+    tieJingle = love.audio.newSource("assets/tiewin.wav", "static")
 end
 
 function win_updateRoom(dt)
