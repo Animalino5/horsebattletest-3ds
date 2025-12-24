@@ -25,4 +25,5 @@ thats it.
 
 * @animalinoanimation on discord for creating this! (hey thats me!)
 * @.cinnamilk. on discord for playtesting!
-* @slineryo on discord for helping me fix a bug!
+* @tommystickfigure on discord for playtesting!
+* @slineryo on discord for helping me find a bug!
