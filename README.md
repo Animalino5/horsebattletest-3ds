@@ -18,13 +18,12 @@ thats it.
 
 ### KNOWN BUGS
 
- * It may blackscreen. Reason not known.
  * When you and your opponent collide, your speeds swap.
  * This may not count as a bug necessarily, but it does NOT load in emulators. That is a consistent problem across all Lovepotion games.
 
 ### CREDITS!!!
 
 * @animalinoanimation on discord for creating this! (hey thats me!)
-* @.cinnamilk. on discord for playtesting!
-* @tommystickfigure on discord for playtesting! (they helped A LOT)
+* @.cinnamilk. on discord for playtesting! (he playtested some early versions!)
+* @tommystickfigure on discord for playtesting! (he helped A LOT)
 * @slineryo on discord for helping me find a bug!
