@@ -15,15 +15,11 @@ but then i discovered that i could make games for the 3ds........
 and i really wanted my little game in there.
 thats it.
 
-### WARNING
-
-No version before 1.0.3 works.
-
 
 ### KNOWN BUGS
 
  * It may blackscreen. Reason not known.
- * When your oponent is faster than you and you collide with him, you gain his speed.
+ * When you and your opponent collide, your speeds swap.
  * This may not count as a bug necessarily, but it does NOT load in emulators. That is a consistent problem across all Lovepotion games.
 
 ### CREDITS!!!
