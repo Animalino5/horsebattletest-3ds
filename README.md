@@ -19,6 +19,7 @@ thats it.
 ### KNOWN BUGS
 
  * When you and your opponent collide, your speeds swap.
+ * Lag spikes when changing "rooms" 
  * This may not count as a bug necessarily, but it does NOT load in emulators. That is a consistent problem across all Lovepotion games.
 
 ### CREDITS!!!
