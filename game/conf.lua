@@ -1,6 +1,6 @@
 function love.conf(t)
     t.identity = "HBT"
-    t.console = true
+    t.console = false 
     t.modules.audio = true
     t.modules.sound = true
     t.externalstorage = true 
